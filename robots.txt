@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gugome.github.io/ZfG/sitemap.ZfG.gz
